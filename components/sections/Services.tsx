@@ -138,7 +138,7 @@ export default function Services() {
         >
           <a
             href="/estimate"
-            className="inline-block bg-freight-gold-500 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-freight-gold-600 transition-all shadow-lg hover:shadow-xl hover:scale-105"
+            className="inline-block bg-freight-gold-500 text-black px-8 py-4 rounded-lg font-semibold text-lg hover:bg-freight-gold-600 transition-all shadow-lg hover:shadow-xl hover:scale-105"
           >
             Get a Free Quote
           </a>
