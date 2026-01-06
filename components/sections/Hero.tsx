@@ -80,7 +80,7 @@ export default function Hero() {
           >
             <Link
               href="/estimate"
-              className="inline-flex items-center justify-center bg-freight-gold-600 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-freight-gold-700 transition-all shadow-2xl hover:shadow-[0_0_30px_rgba(253,185,39,0.6)] hover:scale-105 group border-2 border-freight-gold-500"
+              className="inline-flex items-center justify-center bg-freight-gold-600 text-black px-8 py-4 rounded-lg font-bold text-lg hover:bg-black hover:text-white transition-all shadow-2xl hover:shadow-[0_0_30px_rgba(253,185,39,0.6)] hover:scale-105 group border-2 border-freight-gold-500"
             >
               Get Free Estimate
               <FaArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />

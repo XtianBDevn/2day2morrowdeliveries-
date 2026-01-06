@@ -59,7 +59,7 @@ export default function Header() {
             </a>
             <Link
               href="/estimate"
-              className="bg-white text-freight-purple-900 px-6 py-3 rounded-lg font-bold hover:bg-freight-purple-900 hover:text-white transition-all shadow-lg hover:shadow-xl hover:scale-105 border-2 border-freight-purple-900"
+              className="bg-freight-gold-600 text-black px-6 py-3 rounded-lg font-bold hover:bg-black hover:text-white transition-all shadow-lg hover:shadow-xl hover:scale-105 border-2 border-freight-gold-600"
             >
               Get Estimate
             </Link>
@@ -105,7 +105,7 @@ export default function Header() {
               <Link
                 href="/estimate"
                 onClick={() => setMobileMenuOpen(false)}
-                className="bg-white text-freight-purple-900 px-6 py-3 rounded-lg font-bold text-center hover:bg-freight-purple-900 hover:text-white transition-colors border-2 border-freight-purple-900"
+                className="bg-freight-gold-600 text-black px-6 py-3 rounded-lg font-bold text-center hover:bg-black hover:text-white transition-colors border-2 border-freight-gold-600"
               >
                 Get Estimate
               </Link>

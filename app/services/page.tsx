@@ -132,7 +132,7 @@ export default function ServicesPage() {
             </p>
             <Link
               href="/estimate"
-              className="inline-flex items-center bg-freight-gold-600 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-freight-gold-700 transition-all shadow-xl hover:shadow-2xl hover:scale-105 border-2 border-freight-gold-500 group"
+              className="inline-flex items-center bg-freight-gold-600 text-black px-8 py-4 rounded-lg font-bold text-lg hover:bg-black hover:text-white transition-all shadow-xl hover:shadow-2xl hover:scale-105 border-2 border-freight-gold-600 group"
             >
               Get Free Estimate
               <FaArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
@@ -253,7 +253,7 @@ export default function ServicesPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/estimate"
-                className="inline-flex items-center justify-center bg-freight-gold-600 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-freight-gold-700 transition-all shadow-xl hover:shadow-2xl hover:scale-105 border-2 border-freight-gold-500 group"
+                className="inline-flex items-center justify-center bg-freight-gold-600 text-black px-8 py-4 rounded-lg font-bold text-lg hover:bg-black hover:text-white transition-all shadow-xl hover:shadow-2xl hover:scale-105 border-2 border-freight-gold-600 group"
               >
                 Get Free Estimate
                 <FaArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
